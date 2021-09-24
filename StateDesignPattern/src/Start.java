@@ -7,6 +7,5 @@ public class Start {
         GumBallManager.doInsertsQuarter();
         GumBallManager.doInsertsQuarter();
         GumBallManager.doTurnsCrank();
-        System.out.println("Hello, World!");
     }
 }
