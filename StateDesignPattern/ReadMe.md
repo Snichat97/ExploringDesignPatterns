@@ -1,2 +1,2 @@
 Implementing Gum Ball Machine transition and states using state diagram
-[alt text](![image](https://user-images.githubusercontent.com/34672064/134732016-ce481a4e-e1a2-4685-b035-733d1b67f5d3.png))
+[alt text](![image](https://github.com/Snichat97/ExploringDesignPatterns/blob/main/StateDesignPattern/Screen%20Shot%202021-09-24%20at%2012.48.34%20PM.png)
